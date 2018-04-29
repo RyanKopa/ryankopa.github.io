@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Kopa</title>
+    <link>https://ryankopa.github.io/tags/</link>
+    <description>Recent content on Ryan Kopa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan Kopa</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ryankopa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airbnb New User Bookings Competition</title>
+      <link>https://ryankopa.github.io/project/airbnb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryankopa.github.io/project/airbnb/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>San Francisco Crime Classification</title>
+      <link>https://ryankopa.github.io/project/san_francisco_crime/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryankopa.github.io/project/san_francisco_crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddit Bully Detection</title>
+      <link>https://ryankopa.github.io/project/reddit_hackdavis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryankopa.github.io/project/reddit_hackdavis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
